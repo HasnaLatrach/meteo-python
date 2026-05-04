@@ -1,11 +1,3 @@
-"""
-🌦️ APPLICATION MÉTÉO PROFESSIONNELLE
-Reconstruction complète avec interface moderne et fonctionnalités avancées
-
-Date: 2026-01-02
-Version: 2.0
-"""
-
 import streamlit as st
 import pandas as pd
 from datetime import datetime
